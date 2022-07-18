@@ -1,8 +1,8 @@
 ## Ankit Bagul
 
 ### My Work 👇.
-
-# Project 1: Title goes here.
+# The portfolio is work in Progress. Thanks for visiting anyway ✌.
+# Project 1: Title goes here. (definetly add link to the project from github)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
