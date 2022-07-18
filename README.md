@@ -2,9 +2,11 @@
 
 ### My Work 👇.
 
-#Project 1: Title goes here.
+# Project 1: Title goes here.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+# Project 2: Title goes here.
 
 ### Markdown
 
