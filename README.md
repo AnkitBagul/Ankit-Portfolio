@@ -1,7 +1,7 @@
 ## My Work 
-### A Data Scienc Portfolio
 
-Project 1: Title goes here.
+#Project 1: Title goes here.
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
